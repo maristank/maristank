@@ -18,7 +18,7 @@ Estudante de Sistemas de Informação na UFOP com grande interesse em desenvolvi
 
   ###
 
-<h3 align="left">🛠 Skils </h3>
+<h3 align="left">🛠 Skills </h3>
 
 ###
 
@@ -55,3 +55,16 @@ Estudante de Sistemas de Informação na UFOP com grande interesse em desenvolvi
     </picture>
   </a>
 </p>
+
+
+###
+
+<h3 align="left"></h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maristank&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
