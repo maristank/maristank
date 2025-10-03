@@ -8,8 +8,8 @@ Estudante de Sistemas de Informação na UFOP com grande interesse em desenvolvi
 
 * 🌍  Sou de Minas Gerais
 * ✉️  Entre em contato através do e-mail [mariastank112@gmail.com](mailto:mariastank112@gmail.com)
-* 🧠  Atualmente aprendendo JavaScript
-* 🚀  Estou em busca de um estágio
+* 🧠  Atualmente aprendendo Java
+* 🤝  Estou em busca de um estágio
 
 <p align="left">
   <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" /></a>
@@ -43,8 +43,3 @@ Estudante de Sistemas de Informação na UFOP com grande interesse em desenvolvi
     </picture>
   </a>
 </p>
-
-### Estatísticas
-<b>Minhas Estatísticas do GitHub</b>
-<a href="http://www.github.com/maristank"><img src="https://github-readme-stats.vercel.app/api?username=maristank&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&show_icons=true" alt="Estatísticas do GitHub de maristank" /></a>
-<a href="http://www.github.com/maristank"><img src="https://github-readme-streak-stats.herokuapp.com/?user=maristank&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
