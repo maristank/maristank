@@ -1,8 +1,13 @@
 # Olá 👋, meu nome é Maria
 
-
 ### Aspirante a Desenvolvedor Back-end
 ----------------------------------
+
+###
+
+<h3 align="left">👩‍💻  Sobre mim</h3>
+
+###
 
 Estudante de Sistemas de Informação na UFOP com grande interesse em desenvolvimento back-end. Dedico meus estudos a construir a lógica e a estrutura de sistemas eficientes, com foco em tecnologias como Java e bancos de dados. Busco uma oportunidade de estágio remoto para aplicar meu conhecimento, aprender com a equipe e iniciar minha carreira em tecnologia.
 
@@ -10,6 +15,13 @@ Estudante de Sistemas de Informação na UFOP com grande interesse em desenvolvi
 * ✉️  Entre em contato através do e-mail [mariastank112@gmail.com](mailto:mariastank112@gmail.com)
 * 🧠  Atualmente aprendendo Java
 * 🤝  Estou em busca de um estágio
+
+  ###
+
+<h3 align="left">🛠 Skils </h3>
+
+###
+
 
 <p align="left">
   <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" /></a>
